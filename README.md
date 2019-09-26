@@ -22,6 +22,6 @@ Links to a few (&lt;5) good resources
 -   [Yuanyuan Li and Trygve O. Tollefsbol (2011). DNA methylation
     detection: Bisulfite genomic sequencing
     analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233226/)
--   Link 2
+-   https://www.zymoresearch.com/pages/bisulfite-beginner-guide#bisulfite_sequencing
 -   Link 3
 -   Link 4
