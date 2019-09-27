@@ -22,6 +22,6 @@ Links to a few good resources
 -   [Yuanyuan Li and Trygve O. Tollefsbol (2011). DNA methylation
     detection: Bisulfite genomic sequencing
     analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233226/)
--   https://www.zymoresearch.com/pages/bisulfite-beginner-guide#bisulfite_sequencing
+-   [Learn More About Bisulfite Conversion](https://www.zymoresearch.com/pages/bisulfite-beginner-guide#bisulfite_sequencing)
 -   [Sara Ryding (2018). How Does Whole Genome Bisulfite Sequencing Work?](https://www.news-medical.net/life-sciences/How-Does-Whole-Genome-Bisulfite-Sequencing-Work.aspx)
 -   [Epigenetics 2 - DNA methylation and Bisulfite Sequencin](https://youtu.be/5NEoqa-k3xM)
