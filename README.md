@@ -1,20 +1,21 @@
+STA426 Exercise 2 - Part a)
+====================
+
 Group members
-=============
+-------------
 
 -   felix-hof
 -   joelmeili
 -   retodomax
 -   thomas-fischer42
 
-Exercise 2 - Part a)
-====================
 
 Produce a 2-3 point summary of “how it works”
 ---------------------------------------------
 
--   Expose DNA to Bisulfite. 
--   DNA is randomly split into single stranded fragments. Unmethylated cytosine is converted to uracil
--   Sequencing analysis
+-   Expose DNA to sodium bisulfite (sodium bisulfite conversion). 
+-   DNA is randomly split into single stranded fragments. Unmethylated cytosine is converted to uracil.
+-   PCR. Uracil are converted into thymine.
 
 Links to a few good resources
 -------------------------------------
